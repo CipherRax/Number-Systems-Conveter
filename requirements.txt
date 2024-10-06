@@ -1,2 +1,3 @@
 pip install kivy
 pip install pipenv #in windows
+#run main.exe to execute instead
